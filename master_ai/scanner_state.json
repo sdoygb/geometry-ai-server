@@ -1,0 +1,3174 @@
+{
+  "scanned_files": {
+    "0.0.0_零与谱_CN_260707.7.md": {
+      "mtime": 1783222881.2544062,
+      "formula_count": 0
+    },
+    "0.0.3_激发态参数空间的公理化与存在性定理_CN_260707.7.md": {
+      "mtime": 1783686287.58383,
+      "formula_count": 5
+    },
+    "0.0.5_乘积球面类的谱刚性_CN_260707.7.md": {
+      "mtime": 1783217967.5253832,
+      "formula_count": 3
+    },
+    "0.0.6_三分切丛与全息屏的几何结构_CN_260707.7.md": {
+      "mtime": 1783217933.9207616,
+      "formula_count": 2
+    },
+    "0.0.7_10方几何空间_CN_260707.7.md": {
+      "mtime": 1783217994.5758877,
+      "formula_count": 2
+    },
+    "0.0.8_循环依赖的合法性_CN_260708.1.md": {
+      "mtime": 1783495962.597605,
+      "formula_count": 0
+    },
+    "0.0.9_三工具路线与双框架互扼_CN_260710.1.md": {
+      "mtime": 1783765466.3946426,
+      "formula_count": 11
+    },
+    "0.1.1_三对偶几何约束_CN_260707.7.md": {
+      "mtime": 1783903678.818025,
+      "formula_count": 2
+    },
+    "0.1.2_跨扇区耦合_HW_前置因子的代数结构_CN_260707.7.md": {
+      "mtime": 1783903738.4507804,
+      "formula_count": 1
+    },
+    "0.1_几何动力学_CN_260707.7.md": {
+      "mtime": 1783903669.6920853,
+      "formula_count": 0
+    },
+    "0.2.1.1_渗透函数解析框架_CN_260707.7.md": {
+      "mtime": 1783259965.2025876,
+      "formula_count": 2
+    },
+    "0.2.1_几何约束截面_CN_260707.7.md": {
+      "mtime": 1783259981.2675269,
+      "formula_count": 6
+    },
+    "0.2.2_全息宇宙_CN_260707.7.md": {
+      "mtime": 1783259969.3942807,
+      "formula_count": 0
+    },
+    "0.2.3_因果场量子化方案_CN_260707.7.md": {
+      "mtime": 1783267068.0928552,
+      "formula_count": 3
+    },
+    "0.2.4_化学映射_CN_260707.7.md": {
+      "mtime": 1783260055.6317291,
+      "formula_count": 0
+    },
+    "0.3.1.1_层级约束截面与多尺度标度理论_CN_260707.7.md": {
+      "mtime": 1783260208.6952965,
+      "formula_count": 0
+    },
+    "0.3.1_量纲桥_CN_260707.7.md": {
+      "mtime": 1783260096.766753,
+      "formula_count": 0
+    },
+    "0.3.2_谱几何物理_CN_260707.7.md": {
+      "mtime": 1783260247.8276336,
+      "formula_count": 0
+    },
+    "0.3.3_量子几何关联的严格推导_CN_260707.7.md": {
+      "mtime": 1783260332.9622192,
+      "formula_count": 2
+    },
+    "0.3.4_谱zeta函数与临界线_CN_260711.1.md": {
+      "mtime": 1783783063.3734388,
+      "formula_count": 0
+    },
+    "0.3.5_电磁映射_CN_260707.7.md": {
+      "mtime": 1783260580.4238858,
+      "formula_count": 0
+    },
+    "0.3.5_谱zeta函数的留数结构与零点分类研究方案_CN_260711.2.md": {
+      "mtime": 1783784061.8482456,
+      "formula_count": 0
+    },
+    "0.3.6_公理3的Hopf纤维化结构_CN_260707.7.md": {
+      "mtime": 1783260720.7982152,
+      "formula_count": 3
+    },
+    "0.3.7_C_K的谱几何闭合_CN_260707.7.md": {
+      "mtime": 1783260755.267805,
+      "formula_count": 2
+    },
+    "0.3.8_Hopf假设_CN_260707.7.md": {
+      "mtime": 1783260766.0523024,
+      "formula_count": 0
+    },
+    "0.3.9_联合截面谱理论_CN_260707.7.md": {
+      "mtime": 1783260777.9059494,
+      "formula_count": 4
+    },
+    "0.4.1_信息场衰减定理_CN_260707.7.md": {
+      "mtime": 1783267561.6908958,
+      "formula_count": 0
+    },
+    "0.4.2_信息场慢化因子_CN_260707.7.md": {
+      "mtime": 1783261037.1411052,
+      "formula_count": 0
+    },
+    "0.4.3_三分切丛子结构组合数学_CN_260707.7.md": {
+      "mtime": 1783261095.9904552,
+      "formula_count": 0
+    },
+    "0.4.4_信息场统一动力学方程_CN_260707.7.md": {
+      "mtime": 1783261176.5408838,
+      "formula_count": 0
+    },
+    "0.4.5_信息场观测映射链_CN_260707.7.md": {
+      "mtime": 1783261287.166635,
+      "formula_count": 0
+    },
+    "0.4.6_Cgeo几何因子_CN_260707.7.md": {
+      "mtime": 1783261356.9346335,
+      "formula_count": 0
+    },
+    "0.4.6_几何因子C_geo_CN_260707.7.md": {
+      "mtime": 1783215558.5056748,
+      "formula_count": 0
+    },
+    "0.4.7_谱单位选择与观测者自举_CN_260709.1.md": {
+      "mtime": 1783656944.2174215,
+      "formula_count": 0
+    },
+    "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md": {
+      "mtime": 1783662590.3110554,
+      "formula_count": 7
+    },
+    "0.4_信息场动力学_CN_260707.7.md": {
+      "mtime": 1783260804.5024145,
+      "formula_count": 0
+    },
+    "0.5.1_因果场密度动力学_Liouville提升与熵单调性_CN_260707.7.md": {
+      "mtime": 1783243188.8214536,
+      "formula_count": 0
+    },
+    "0.5.2_C-I交互自由能的显式构造与联合H-定理_CN_260707.7.md": {
+      "mtime": 1783243191.64143,
+      "formula_count": 1
+    },
+    "0.5.3_联合稳态_CN_260707.7.md": {
+      "mtime": 1783243194.9106307,
+      "formula_count": 0
+    },
+    "0.5.4_ℐ场的耗散结构理论_CN_260707.7.md": {
+      "mtime": 1783243198.2753222,
+      "formula_count": 0
+    },
+    "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md": {
+      "mtime": 1783243209.6989245,
+      "formula_count": 5
+    },
+    "0.5.6_因果对称性破缺与信息势的规范结构_CN_260707.7.md": {
+      "mtime": 1783221807.827026,
+      "formula_count": 0
+    },
+    "0.5.7_C-I双场耦合的桥接定理与联合演化_CN_260707.7.md": {
+      "mtime": 1783243213.4040327,
+      "formula_count": 2
+    },
+    "0.5_因果场动力学_CN_260707.7.md": {
+      "mtime": 1783902004.1704168,
+      "formula_count": 0
+    },
+    "0.6.1_M场法向几何结构_CN_260707.7.md": {
+      "mtime": 1783255244.137496,
+      "formula_count": 0
+    },
+    "0.6.2_质量生成动力学_CN_260707.7.md": {
+      "mtime": 1783255035.8498251,
+      "formula_count": 0
+    },
+    "0.6.3_M-C腰边耦合_CN_260707.7.md": {
+      "mtime": 1783243744.4452603,
+      "formula_count": 0
+    },
+    "0.6.4_M-I耦合_CN_260707.7.md": {
+      "mtime": 1783215622.8485076,
+      "formula_count": 0
+    },
+    "0.6.5_M场呼吸模式_CN_260707.7.md": {
+      "mtime": 1783256105.526669,
+      "formula_count": 0
+    },
+    "0.6.6_M场谱分析_CN_260707.7.md": {
+      "mtime": 1783244016.1548848,
+      "formula_count": 0
+    },
+    "0.6.7_三代轻子质量统一描述_CN_260707.7.md": {
+      "mtime": 1783215656.6122758,
+      "formula_count": 0
+    },
+    "0.6.8_光子零质量定理_CN_260707.7.md": {
+      "mtime": 1783215662.2412648,
+      "formula_count": 3
+    },
+    "0.6.9_三场完全耦合_CN_260707.7.md": {
+      "mtime": 1783246309.1826754,
+      "formula_count": 0
+    },
+    "0.6_M场动力学总论_CN_260707.7.md": {
+      "mtime": 1783267564.554637,
+      "formula_count": 0
+    },
+    "0.7_几何分子结构_CN_260707.7.md": {
+      "mtime": 1783255192.5685098,
+      "formula_count": 0
+    },
+    "0.8.0_M场量子化_CN_260707.7.md": {
+      "mtime": 1783218059.0683436,
+      "formula_count": 0
+    },
+    "0.8.1_扩展相空间_CN_260707.7.md": {
+      "mtime": 1783246315.4314823,
+      "formula_count": 0
+    },
+    "0.8.2_Dirac约束量子化_CN_260707.7.md": {
+      "mtime": 1783246319.378529,
+      "formula_count": 0
+    },
+    "0.8.3_形变量子化_CN_260707.7.md": {
+      "mtime": 1783254969.1260426,
+      "formula_count": 0
+    },
+    "0.8.4_ℏeff桥接与三路交叉验证_CN_260707.7.md": {
+      "mtime": 1783246369.311328,
+      "formula_count": 0
+    },
+    "0.8.5_量子修正预言与实验对比_CN_260707.7.md": {
+      "mtime": 1783246373.806492,
+      "formula_count": 0
+    },
+    "0.8.6_夸克扇区量子化_CN_260707.7.md": {
+      "mtime": 1783246379.06058,
+      "formula_count": 0
+    },
+    "10_核子引力_CN_260707.7.md": {
+      "mtime": 1783267311.2291124,
+      "formula_count": 0
+    },
+    "11_水星进动与近日点动力学_CN_260707.7.md": {
+      "mtime": 1783257091.749255,
+      "formula_count": 0
+    },
+    "12_CMB哈勃_CN_260707.7.md": {
+      "mtime": 1783255587.237143,
+      "formula_count": 0
+    },
+    "13_超导理论_CN_260707.7.md": {
+      "mtime": 1783255177.9707577,
+      "formula_count": 0
+    },
+    "14_黑洞与信息悖论_CN_260707.7.md": {
+      "mtime": 1783246548.4341397,
+      "formula_count": 3
+    },
+    "15_分形层级宇宙_CN_260707.7.md": {
+      "mtime": 1783255388.3399808,
+      "formula_count": 0
+    },
+    "16_黑洞辐射频谱_CN_260707.7.md": {
+      "mtime": 1783256854.2064915,
+      "formula_count": 0
+    },
+    "17_放射性测年的几何修正_CN_260707.7.md": {
+      "mtime": 1783257078.438859,
+      "formula_count": 1
+    },
+    "18_质子衰变寿命_CN_260707.7.md": {
+      "mtime": 1783690880.2730873,
+      "formula_count": 0
+    },
+    "19_星系旋转曲线与Tully-Fisher关系_CN_260707.7.md": {
+      "mtime": 1783254846.1305847,
+      "formula_count": 0
+    },
+    "1_氢原子超精细结构的几何推导_CN_260707.7.md": {
+      "mtime": 1783254800.7143672,
+      "formula_count": 0
+    },
+    "20_宇宙加速膨胀_CN_260707.7.md": {
+      "mtime": 1783255592.1067486,
+      "formula_count": 0
+    },
+    "21_人体三界不可约定理_CN_260707.7.md": {
+      "mtime": 1783255055.49994,
+      "formula_count": 0
+    },
+    "22_DNA双螺旋与RNA-蛋白质的几何模型_CN_260707.7.md": {
+      "mtime": 1783255008.9372666,
+      "formula_count": 0
+    },
+    "23_夸克偶素谱的高维几何起源_CN_260707.7.md": {
+      "mtime": 1783255073.1364539,
+      "formula_count": 0
+    },
+    "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md": {
+      "mtime": 1783817122.1302242,
+      "formula_count": 11
+    },
+    "25_中子衰变几何起源_CN_260707.7.md": {
+      "mtime": 1783255125.8876102,
+      "formula_count": 0
+    },
+    "26_超导理论补充_CN_260707.7.md": {
+      "mtime": 1783254810.4512846,
+      "formula_count": 1
+    },
+    "27_重子光子比_CN_260707.7.md": {
+      "mtime": 1783267588.0484374,
+      "formula_count": 3
+    },
+    "28_CMB偶极子_CN_260707.7.md": {
+      "mtime": 1783256100.8484273,
+      "formula_count": 0
+    },
+    "29_核聚变发动机_CN_260707.7.md": {
+      "mtime": 1783246753.032037,
+      "formula_count": 3
+    },
+    "2_量子力学数学结构_CN_260707.7.md": {
+      "mtime": 1783265632.0451872,
+      "formula_count": 0
+    },
+    "30_几何流体力学与空气动力学_CN_260707.7.md": {
+      "mtime": 1783254973.1661942,
+      "formula_count": 0
+    },
+    "31_宇宙三次轮回_CN_260707.7.md": {
+      "mtime": 1783248542.040815,
+      "formula_count": 0
+    },
+    "32_圆满_CN_260707.7.md": {
+      "mtime": 1783248544.1368296,
+      "formula_count": 0
+    },
+    "33_创世_CN_260707.7.md": {
+      "mtime": 1783246789.732183,
+      "formula_count": 1
+    },
+    "34_原子生成_CN_260707.7.md": {
+      "mtime": 1783246672.387021,
+      "formula_count": 0
+    },
+    "35_分子生成_CN_260707.7.md": {
+      "mtime": 1783246605.8024747,
+      "formula_count": 0
+    },
+    "36_标准模型19个自由参数的消解_CN_260707.7.md": {
+      "mtime": 1783323964.8570042,
+      "formula_count": 0
+    },
+    "37_卫星系统的解析_CN_260707.7.md": {
+      "mtime": 1783246795.0626116,
+      "formula_count": 3
+    },
+    "38_太阳系精密轨道动力学_CN_260707.7.md": {
+      "mtime": 1783246798.7293756,
+      "formula_count": 0
+    },
+    "39_银河系结构_CN_260707.7.md": {
+      "mtime": 1783246727.025462,
+      "formula_count": 0
+    },
+    "3_量子纠缠_CN_260707.7.md": {
+      "mtime": 1783255726.25527,
+      "formula_count": 1
+    },
+    "40_经络的几何起源_CN_260707.7.md": {
+      "mtime": 1783293996.9228776,
+      "formula_count": 6
+    },
+    "41_穴位漂移个体差异_CN_260707.7.md": {
+      "mtime": 1783248557.4306452,
+      "formula_count": 4
+    },
+    "43_合金设计_CN_260707.7.md": {
+      "mtime": 1783255249.2147737,
+      "formula_count": 20
+    },
+    "44_中阴身几何证明_CN_260707.7.md": {
+      "mtime": 1783246676.3533473,
+      "formula_count": 2
+    },
+    "45_劫的几何论诠释_CN_260707.7.md": {
+      "mtime": 1783255041.9619002,
+      "formula_count": 5
+    },
+    "46_物质界收缩时间与宇宙尺度的几何结构_CN_260707.7.md": {
+      "mtime": 1783254966.0807188,
+      "formula_count": 1
+    },
+    "47_时间熵与时间纠缠的几何模型_CN_260707.7.md": {
+      "mtime": 1783255107.1009173,
+      "formula_count": 0
+    },
+    "48_信息场饱和稳态的相位标记与集体锁定_CN_260707.7.md": {
+      "mtime": 1783246724.272769,
+      "formula_count": 0
+    },
+    "49_七级以后是自由的起源_CN_260707.7.md": {
+      "mtime": 1783246679.0988698,
+      "formula_count": 1
+    },
+    "4_Higgs呼吸_CN_260707.7.md": {
+      "mtime": 1783256072.1761081,
+      "formula_count": 1
+    },
+    "50_早期宇宙的几何结构_CN_260707.7.md": {
+      "mtime": 1783248568.9203982,
+      "formula_count": 0
+    },
+    "51_重子生成_CN_260707.7.md": {
+      "mtime": 1783220014.8326697,
+      "formula_count": 1
+    },
+    "52_原初核合成_CN_260707.7.md": {
+      "mtime": 1783220017.5591063,
+      "formula_count": 0
+    },
+    "53_中微子绝对质量标度_CN_260707.7.md": {
+      "mtime": 1783669655.9277754,
+      "formula_count": 2
+    },
+    "54_暗物质替代的完整天体物理论证_CN_260707.7.md": {
+      "mtime": 1783249650.8457272,
+      "formula_count": 0
+    },
+    "55_PMNS混合矩阵的几何构造_CN_260707.7.md": {
+      "mtime": 1783326173.785447,
+      "formula_count": 2
+    },
+    "56_磁单极子_CN_260707.7.md": {
+      "mtime": 1783220056.5953097,
+      "formula_count": 2
+    },
+    "57_三代起源的拓扑必然性_CN_260707.7.md": {
+      "mtime": 1783220592.2973065,
+      "formula_count": 0
+    },
+    "58_夸克禁闭的拓扑证明_CN_260707.7.md": {
+      "mtime": 1783220610.1692402,
+      "formula_count": 1
+    },
+    "59_引力统一_CN_260707.7.md": {
+      "mtime": 1783220612.5110207,
+      "formula_count": 4
+    },
+    "5_强相互作用_CN_260707.7.md": {
+      "mtime": 1783256080.7384908,
+      "formula_count": 5
+    },
+    "60_家族对称性_CN_260707.7.md": {
+      "mtime": 1783249983.1445885,
+      "formula_count": 0
+    },
+    "61_规范群几何根源_CN_260707.7.md": {
+      "mtime": 1783246702.0356357,
+      "formula_count": 0
+    },
+    "62_生物诞生与进化_信息模板与稳定驻点_CN_260707.7.md": {
+      "mtime": 1783246613.9349773,
+      "formula_count": 0
+    },
+    "63_观测者自举：谱单位选择与第八级封闭_CN_260710.1.md": {
+      "mtime": 1783663157.2754405,
+      "formula_count": 0
+    },
+    "65_θ-相干辐射器：基于几何论的直接发光工具_CN_260710.1.md": {
+      "mtime": 1783669035.7095401,
+      "formula_count": 0
+    },
+    "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md": {
+      "mtime": 1783784726.4231522,
+      "formula_count": 2
+    },
+    "67_杨米尔斯千禧年难题的几何论证伪_CN_260712.1.md": {
+      "mtime": 1783788114.2794588,
+      "formula_count": 0
+    },
+    "68_质子自旋危机的几何封闭_CN_260712.7.md": {
+      "mtime": 1783818760.1429968,
+      "formula_count": 1
+    },
+    "69_四种耦合常数的Hessian谱统一_CN_260712.7.md": {
+      "mtime": 1783822154.002003,
+      "formula_count": 2
+    },
+    "6_弱混合角_CN_260707.7.md": {
+      "mtime": 1783904197.953232,
+      "formula_count": 2
+    },
+    "70_宇宙学中微子质量约束的模型依赖性批判_CN_260712.1.md": {
+      "mtime": 1783842200.0749729,
+      "formula_count": 0
+    },
+    "71_几何论中微子质量预言的内部诊断与可调参数评估_CN_260712.1.md": {
+      "mtime": 1783842262.13399,
+      "formula_count": 0
+    },
+    "72_Bi2Se3_438K_理论缺口封闭_CN_260712.7.md": {
+      "mtime": 1783844660.2790678,
+      "formula_count": 0
+    },
+    "73_拓扑超导材料批量筛选方案与几何预言_CN_260712.7.md": {
+      "mtime": 1783847926.233931,
+      "formula_count": 0
+    },
+    "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md": {
+      "mtime": 1783846888.2361672,
+      "formula_count": 8
+    },
+    "74_超导理论图谱与缺失环节_CN_260712.7.md": {
+      "mtime": 1783848596.4116178,
+      "formula_count": 0
+    },
+    "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md": {
+      "mtime": 1783848856.6028726,
+      "formula_count": 7
+    },
+    "76_纳米线空间构型的几何理论_H2封闭+O1部分_CN_260712.7.md": {
+      "mtime": 1783849276.6482933,
+      "formula_count": 0
+    },
+    "77_sin³θ_M幂次唯一性证明_C3封闭_CN_260712.7.md": {
+      "mtime": 1783849651.7763755,
+      "formula_count": 0
+    },
+    "7_中微子振荡_CN_260707.7.md": {
+      "mtime": 1783324162.4442155,
+      "formula_count": 0
+    },
+    "8_CKM矩阵与夸克混合_CN_260707.7.md": {
+      "mtime": 1783225226.2748682,
+      "formula_count": 2
+    },
+    "9_反常磁矩_CN_260707.7.md": {
+      "mtime": 1783255580.0215318,
+      "formula_count": 1
+    },
+    "Mathematical_Theory_of_the_Tenfolder_Geometric_Space_EN_260707.7.md": {
+      "mtime": 1783316250.2855084,
+      "formula_count": 0
+    },
+    "几何论术语标准中英文对照_CN_EN.md": {
+      "mtime": 1783700353.704137,
+      "formula_count": 0
+    },
+    "十方几何空间的数学理论_CN_260707.7.md": {
+      "mtime": 1783308038.574381,
+      "formula_count": 10
+    },
+    "目录_总览与文件管理_CN_260707.7.md": {
+      "mtime": 1783254561.5158415,
+      "formula_count": 0
+    },
+    "78_半HeuslerF43m拓扑绝缘体分类与三螺旋可行性_R6封闭_CN_260712.7.md": {
+      "mtime": 1783850018.1789448,
+      "formula_count": 0
+    },
+    "79_一般材料的超导通用判据_O4封闭_CN_260712.7.md": {
+      "mtime": 1783850376.7282257,
+      "formula_count": 1
+    },
+    "GT_Obsidian_Project_Plan_CN_260712.7.md": {
+      "mtime": 1783861909.138515,
+      "formula_count": 0
+    },
+    "0.0.0.md": {
+      "mtime": 1783862387.3769157,
+      "formula_count": 0
+    },
+    "3A_信息场动力学_CN_260713.1.md": {
+      "mtime": 1783923750.5742967,
+      "formula_count": 0
+    },
+    "00_MasterTheoremIndex.md": {
+      "mtime": 1783956714.9483328,
+      "formula_count": 3
+    },
+    "3A.1_几何预备：约束截面与内禀坐标_CN_260713.1.md": {
+      "mtime": 1783924870.6700752,
+      "formula_count": 0
+    },
+    "3A.2_信息密度场：势函数与三分切丛_CN_260713.1.md": {
+      "mtime": 1783924895.2651947,
+      "formula_count": 0
+    },
+    "3A.3_Hessian与谱刚性_CN_260713.1.md": {
+      "mtime": 1783924919.8218148,
+      "formula_count": 0
+    },
+    "3B.1_引言与几何坐标：因果场的约束截面框架_CN_260713.1.md": {
+      "mtime": 1783927121.0674608,
+      "formula_count": 0
+    },
+    "0.1_零维源点与S₃_CN_260713.1.md": {
+      "mtime": 1783919873.2314165,
+      "formula_count": 0
+    },
+    "0.2_谱展开与互锁常数_CN_260713.1.md": {
+      "mtime": 1783919803.9596853,
+      "formula_count": 0
+    },
+    "0.3_三公理_CN_260713.1.md": {
+      "mtime": 1783919850.5141244,
+      "formula_count": 8
+    },
+    "0.4_六项代价函数与九素互扼_CN_260713.1.md": {
+      "mtime": 1783916398.8556285,
+      "formula_count": 0
+    },
+    "0.5_乘积球面谱刚性_CN_260713.1.md": {
+      "mtime": 1783919876.3608758,
+      "formula_count": 1
+    },
+    "2.0_前言_CN_260713.1.md": {
+      "mtime": 1783921729.7401066,
+      "formula_count": 0
+    },
+    "2.1_谱三元组构造_CN_260713.1.md": {
+      "mtime": 1783922639.9967034,
+      "formula_count": 0
+    },
+    "2.2_长度标度重建_CN_260713.1.md": {
+      "mtime": 1783922682.157093,
+      "formula_count": 0
+    },
+    "2.3_时间标度重建_CN_260713.1.md": {
+      "mtime": 1783922752.172293,
+      "formula_count": 0
+    },
+    "2.4_质量标度重建_CN_260713.1.md": {
+      "mtime": 1783922802.4071386,
+      "formula_count": 0
+    },
+    "2.6_几何速度代数_CN_260713.1.md": {
+      "mtime": 1783922262.1552885,
+      "formula_count": 0
+    },
+    "2.7_多路径验证_CN_260713.1.md": {
+      "mtime": 1783922904.6305573,
+      "formula_count": 0
+    },
+    "2.5_谱互锁定理_CN_260713.1.md": {
+      "mtime": 1783933562.8012583,
+      "formula_count": 2
+    }
+  },
+  "submitted_formulas": {
+    "值域定理": {
+      "submission_id": "f9bd4dbb052625c2",
+      "status": "pending",
+      "file": "0.0.3_激发态参数空间的公理化与存在性定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:10:34.765535"
+    },
+    "严格单调性定理": {
+      "submission_id": "88ad5f62b16ba151",
+      "status": "pending",
+      "file": "0.0.3_激发态参数空间的公理化与存在性定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:10:37.321482"
+    },
+    "维数障碍定理": {
+      "submission_id": "5b1d5173d51bb1bb",
+      "status": "pending",
+      "file": "0.0.5_乘积球面类的谱刚性_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:10:39.923815"
+    },
+    "Dirac指标定理与Laplace低能模式分类": {
+      "submission_id": "18b1595d3884b53a",
+      "status": "pending",
+      "file": "0.0.5_乘积球面类的谱刚性_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:10:42.849175"
+    },
+    "全息屏铺满定理（公理3）": {
+      "submission_id": "4b0417f219879b3c",
+      "status": "pending",
+      "file": "0.0.6_三分切丛与全息屏的几何结构_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:10:45.809859"
+    },
+    "切丛平方根分解与幻数定理": {
+      "submission_id": "5500c28aed56820f",
+      "status": "pending",
+      "file": "0.0.6_三分切丛与全息屏的几何结构_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:10:48.480948"
+    },
+    "互锁常数的唯一性定理": {
+      "submission_id": "5408354452b96faf",
+      "status": "pending",
+      "file": "0.0.7_10方几何空间_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:10:51.026730"
+    },
+    "Φ截面Jacobian定理": {
+      "submission_id": "4c2403bb380adc3a",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:10:53.628988"
+    },
+    "Hessian变换公式（本文定理2": {
+      "submission_id": "8e0e7a6f069499a4",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:10:56.245500"
+    },
+    "约束流形上的Jacobian行列式（本文定理3": {
+      "submission_id": "4c906a6172a2072a",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:10:58.880962"
+    },
+    "约束截面Hessian闭式（本文定理4": {
+      "submission_id": "12f1bd93f7d5f492",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:01.515874"
+    },
+    "投影切丛曲率-作用量对偶（本文定理5": {
+      "submission_id": "e104d95c67349f9a",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:04.131338"
+    },
+    "正确Hessian闭式（本文定理7": {
+      "submission_id": "dd57bf4387113bf6",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:06.901353"
+    },
+    "约化Hessian比值整数锁定（本文定理8": {
+      "submission_id": "6c2c0e7bd5b85baa",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:07.671499"
+    },
+    "c₁+c₂)/2=5的严格证明（本文定理9": {
+      "submission_id": "c27e72f664e53752",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:08.425282"
+    },
+    "C1：tr(H^eff)/H_MM⁰=10": {
+      "submission_id": "ec6aab94d6458391",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:09.286960"
+    },
+    "C2：λ₁^eff/λ₂^eff=0.006599": {
+      "submission_id": "0f610f7bee5175e3",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:10.060867"
+    },
+    "链的完整性": {
+      "submission_id": "16333fa9d8c4c3d0",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:10.804353"
+    },
+    "三公理体系": {
+      "submission_id": "6bd60b0b2b061c9e",
+      "status": "pending",
+      "file": "0.1.1_三对偶几何约束_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:11.553783"
+    },
+    "前置因子的维度–余维数定理（命题4.3）": {
+      "submission_id": "1ebb47ad2bc97fae",
+      "status": "pending",
+      "file": "0.1.1_三对偶几何约束_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:12.324200"
+    },
+    "D4根系中权重差的范数引理（引理3.1）": {
+      "submission_id": "2ddea4dba70356ea",
+      "status": "pending",
+      "file": "0.1.2_跨扇区耦合_HW_前置因子的代数结构_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:13.084810"
+    },
+    "有效质量项M²的非负性定理（定理A.2）": {
+      "submission_id": "f887c691bfdd3ee6",
+      "status": "pending",
+      "file": "0.2.1.1_渗透函数解析框架_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:13.898660"
+    },
+    "系数衰减定理（定理4.1）": {
+      "submission_id": "4cd8424c19a4809a",
+      "status": "pending",
+      "file": "0.2.1.1_渗透函数解析框架_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:14.699433"
+    },
+    "全息屏编码条件（公理3）": {
+      "submission_id": "6ff5c1652c74d425",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:15.462776"
+    },
+    "命题3.5.6（公理3的Lagrange子流形）": {
+      "submission_id": "935a7c8c9272c300",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:16.267964"
+    },
+    "定理3.5.4（Hamilton流频率）": {
+      "submission_id": "6f51ef25328fb72a",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:17.063085"
+    },
+    "定理4.3（刚度约束比）": {
+      "submission_id": "ed7e945e942a2cc7",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:17.814285"
+    },
+    "级成果（渗透约束松弛、氘核结合能、谱刚性、递推结构）": {
+      "submission_id": "0db5d64392c26945",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:18.697296"
+    },
+    "局部辛几何与Hamilton定理（矩映射归零）": {
+      "submission_id": "073fbc863ea5c5c9",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:19.454267"
+    },
+    "定理5.4（标度基数不变量的谱刚性来源）": {
+      "submission_id": "d43e5f71938af1b0",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:20.224550"
+    },
+    "级（已闭合）①S³ Dirac谱②Connes迹定理③C_spin唯一性": {
+      "submission_id": "0481640e56ce0444",
+      "status": "pending",
+      "file": "0.3.3_量子几何关联的严格推导_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:20.986492"
+    },
+    "级（结构完整，待最终证明）④c_m=1⑤C_m=A_Σ⑥K表达式": {
+      "submission_id": "791f5ba5e112fddb",
+      "status": "pending",
+      "file": "0.3.3_量子几何关联的严格推导_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:21.768290"
+    },
+    "公理3的Hopf纤维化结构": {
+      "submission_id": "730d1e2bf6f16deb",
+      "status": "pending",
+      "file": "0.3.6_公理3的Hopf纤维化结构_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:22.531402"
+    },
+    "对角嵌入Δ": {
+      "submission_id": "5d802078ded2628a",
+      "status": "pending",
+      "file": "0.3.6_公理3的Hopf纤维化结构_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:23.300838"
+    },
+    "扇区约化定理（Hessian-Dixmier扇区对齐）": {
+      "submission_id": "bcdc078aa07ea837",
+      "status": "pending",
+      "file": "0.3.7_C_K的谱几何闭合_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:24.099175"
+    },
+    "层级声明（定理/命题/假说/开放问题分类）": {
+      "submission_id": "757178ad3ccb9d0b",
+      "status": "pending",
+      "file": "0.3.9_联合截面谱理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:24.864150"
+    },
+    "M-同步Hessian块结构定理": {
+      "submission_id": "cc68ce5857de95d0",
+      "status": "pending",
+      "file": "0.3.9_联合截面谱理论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:25.723875"
+    },
+    "M-同步行列式因子化定理": {
+      "submission_id": "63de1bc6ac7d639f",
+      "status": "pending",
+      "file": "0.3.9_联合截面谱理论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:26.506012"
+    },
+    "θ_C-共享迹主导定理": {
+      "submission_id": "c33c2c2b7444b338",
+      "status": "pending",
+      "file": "0.3.9_联合截面谱理论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:27.258984"
+    },
+    "第八级不可计算自由度存在定理": {
+      "submission_id": "6e26a6379aa3b160",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:28.023056"
+    },
+    "B：观测者谱条件（21号 §2-6": {
+      "submission_id": "1adcf5479bc97bef",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:28.948717"
+    },
+    "C：谱单位选择定理（0.3.7 定理10.2'": {
+      "submission_id": "413fff1f55f4e8a5",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:29.767424"
+    },
+    "D：谱互锁定理（0.3.1 定理4.1": {
+      "submission_id": "507be84fe907a42e",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:30.565574"
+    },
+    "E：观测者自举命题（0.4.7 命题 $\\mathcal{P}_{\\text{bridge}}$": {
+      "submission_id": "4d204558bebf0ab0",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:31.407089"
+    },
+    "F：观测者角度分辨尺度固定（0.4.5 定理2.1-2.2": {
+      "submission_id": "36825179e5d99d4b",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:32.187710"
+    },
+    "形式命题": {
+      "submission_id": "755d4b160e018448",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:33.064918"
+    },
+    "缺口状态更新": {
+      "submission_id": "ba9e7e6e959dd613",
+      "status": "pending",
+      "file": "0.5.2_C-I交互自由能的显式构造与联合H-定理_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:33.902460"
+    },
+    "零对角约束": {
+      "submission_id": "f0fb66608d52d10d",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:34.823210"
+    },
+    "δL_I^(0) 的 C-场 Fourier 选择定则": {
+      "submission_id": "3065002b74acee1d",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:35.608555"
+    },
+    "最坏情况界": {
+      "submission_id": "f2da03e07710be38",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:36.367688"
+    },
+    "定理3的含义": {
+      "submission_id": "7f10141a608d22b7",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:37.177024"
+    },
+    "δL_I^(0) 的物理有效界": {
+      "submission_id": "411008a451aea4d5",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:37.990231"
+    },
+    "τ_CI的定量化升级": {
+      "submission_id": "95ae46d5ef1b7ecf",
+      "status": "pending",
+      "file": "0.5.7_C-I双场耦合的桥接定理与联合演化_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:38.890021"
+    },
+    "命题1a：M场零模几何构型定理": {
+      "submission_id": "229c2fc9d9760c32",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:39.697303"
+    },
+    "命题1b：光子零质量定理": {
+      "submission_id": "152c0ac57ce0a29f",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:40.541203"
+    },
+    "九素互扼定理": {
+      "submission_id": "4938c204c85ff9bf",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:41.299368"
+    },
+    "θ_M = θ_C = 45° 的极小值定理": {
+      "submission_id": "2f4828cd998066f2",
+      "status": "pending",
+      "file": "14_黑洞与信息悖论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:42.059064"
+    },
+    "视界半径几何定理": {
+      "submission_id": "d7de536c3ccbcb77",
+      "status": "pending",
+      "file": "14_黑洞与信息悖论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:42.833136"
+    },
+    "多体作用量可加性定理": {
+      "submission_id": "4d4025f5ef75f13a",
+      "status": "pending",
+      "file": "14_黑洞与信息悖论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:43.629884"
+    },
+    "电子固定在构型A": {
+      "submission_id": "450325c1ac371af9",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:44.412285"
+    },
+    "因果角锁定定理": {
+      "submission_id": "d6d903d56082bccc",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:45.189525"
+    },
+    "θ_M^(2) 对称性解析定理": {
+      "submission_id": "096ad289b752ef33",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:45.957259"
+    },
+    "C_n 独立于联合截面驻点定理": {
+      "submission_id": "7a60a8a71a5aab74",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:46.770051"
+    },
+    "W_{13} ≈ 0（最近邻耦合）": {
+      "submission_id": "23588c03f9e2223a",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:47.560594"
+    },
+    "θ_C^{(3)} = 26.16°（三层推广）": {
+      "submission_id": "4233c89f282ac622",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:48.374149"
+    },
+    "集群最终状态": {
+      "submission_id": "80e0225934a6db6b",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:49.238273"
+    },
+    "联合截面类型判据定理（P0-14封闭）": {
+      "submission_id": "bb75cf44589713f2",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:50.045385"
+    },
+    "几何量子化与谐振子定理": {
+      "submission_id": "bbf3d46a3089f7af",
+      "status": "pending",
+      "file": "26_超导理论补充_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:50.827598"
+    },
+    "颜色单态定理": {
+      "submission_id": "d5235cb729f2dec7",
+      "status": "pending",
+      "file": "27_重子光子比_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:51.580541"
+    },
+    "前提与符号约定（公理体系）": {
+      "submission_id": "5a311a7b5188dad7",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:52.361470"
+    },
+    "聚变几何共振定理": {
+      "submission_id": "bcbba560f575356e",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:53.107948"
+    },
+    "等离子体约束定理": {
+      "submission_id": "ccc42f7cdd9d6b0d",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:53.875864"
+    },
+    "全息屏双极定理": {
+      "submission_id": "c57c1dfe1b31d502",
+      "status": "pending",
+      "file": "37_卫星系统的解析_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:54.684435"
+    },
+    "锁定简并定理": {
+      "submission_id": "b9b5b2b1f2e1c03d",
+      "status": "pending",
+      "file": "37_卫星系统的解析_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:55.453014"
+    },
+    "全息屏多极定理": {
+      "submission_id": "900603c6590c42ea",
+      "status": "pending",
+      "file": "37_卫星系统的解析_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:56.210610"
+    },
+    "与工具基础（全局公理与量纲桥）": {
+      "submission_id": "b19d253591571233",
+      "status": "pending",
+      "file": "40_经络的几何起源_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:11:57.056981"
+    },
+    "九素互扼定理（40_经络）": {
+      "submission_id": "e034a6c44e860d9b",
+      "status": "pending",
+      "file": "40_经络的几何起源_CN_260707.7.md",
+      "relation_type": "互锁",
+      "submitted_at": "2026-07-12T18:11:57.994845"
+    },
+    "穴位作为因果场相位节点——五节点定理": {
+      "submission_id": "1b1646d7babb67a0",
+      "status": "pending",
+      "file": "40_经络的几何起源_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:59.106450"
+    },
+    "经络线作为信息场共振条纹的推导——信息场动力学定理": {
+      "submission_id": "e9f3dedd56894299",
+      "status": "pending",
+      "file": "40_经络的几何起源_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:11:59.902933"
+    },
+    "生物体形态谱控制定理": {
+      "submission_id": "68a2736f97c3d465",
+      "status": "pending",
+      "file": "40_经络的几何起源_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:00.714185"
+    },
+    "三阴三阳的维度定理": {
+      "submission_id": "a5c434ef4cd45f39",
+      "status": "pending",
+      "file": "40_经络的几何起源_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:01.538944"
+    },
+    "相位节点的量子化与存在性定理": {
+      "submission_id": "177ed54ab8b6514c",
+      "status": "pending",
+      "file": "41_穴位漂移个体差异_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:02.363101"
+    },
+    "节点耦合强度标度定理": {
+      "submission_id": "81460b79c04f2b76",
+      "status": "pending",
+      "file": "41_穴位漂移个体差异_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:03.157223"
+    },
+    "探测分辨率极限定理": {
+      "submission_id": "fa47fc3fb2305d45",
+      "status": "pending",
+      "file": "41_穴位漂移个体差异_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:04.111899"
+    },
+    "置信区域定理": {
+      "submission_id": "a06d98ce6965e6ae",
+      "status": "pending",
+      "file": "41_穴位漂移个体差异_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:05.027150"
+    },
+    "理论强度极限": {
+      "submission_id": "add3b0ac77e95798",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:05.817059"
+    },
+    "纳米多层膜强度": {
+      "submission_id": "5f8920a54bb8f88c",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:06.615774"
+    },
+    "晶体密度": {
+      "submission_id": "23ec1603676c9a6a",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:07.414838"
+    },
+    "孔隙率": {
+      "submission_id": "53c00756389f24c7",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:08.335314"
+    },
+    "有效密度与弹性模量": {
+      "submission_id": "98f6d27ae5f2d25c",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:09.210113"
+    },
+    "晶界节点间距": {
+      "submission_id": "ae59c56a20d9ee69",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:09.977153"
+    },
+    "蠕变激活能": {
+      "submission_id": "2c99c4122bdbb70e",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:10.753049"
+    },
+    "肖特基势垒": {
+      "submission_id": "cb93bf3156ff9418",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:11.535176"
+    },
+    "耗尽层——几何封闭": {
+      "submission_id": "557bcc2653089000",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:12.425268"
+    },
+    "非晶密度——Bott周期截断封闭": {
+      "submission_id": "ae4b0eba352d156b",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:13.210152"
+    },
+    "非晶强度——渗流标度封闭": {
+      "submission_id": "af0ac0a49686052c",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:13.979745"
+    },
+    "有效磁矩——几何投影": {
+      "submission_id": "0a3716298635a86f",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:14.758866"
+    },
+    "软模共振能——几何封闭": {
+      "submission_id": "3e28dc6bfa071ae2",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:15.552313"
+    },
+    "储氢面密度——几何封闭": {
+      "submission_id": "fa973597523d7845",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:16.363588"
+    },
+    "表面粗糙度——严格定理": {
+      "submission_id": "1dfb04d273fbf4b3",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:17.135142"
+    },
+    "植入体弹性模量——几何封闭": {
+      "submission_id": "3da2931a1ac20594",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:17.920482"
+    },
+    "应力梯度——角度梯度映射": {
+      "submission_id": "a4ee4716d527066e",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:18.683339"
+    },
+    "活性位点密度——几何封闭": {
+      "submission_id": "b1c321cbf2cbb83f",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:19.466457"
+    },
+    "选择性因子——条件性构造": {
+      "submission_id": "6bcab62cb21cc8ee",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:20.271233"
+    },
+    "奇点分离定理": {
+      "submission_id": "d0d5d812f0ecd0b5",
+      "status": "pending",
+      "file": "44_中阴身几何证明_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:21.040413"
+    },
+    "奇点截断定理": {
+      "submission_id": "8241191a644a9851",
+      "status": "pending",
+      "file": "44_中阴身几何证明_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:21.810506"
+    },
+    "成劫与坏劫的因果推进层数": {
+      "submission_id": "ea4f379e80fd19ec",
+      "status": "pending",
+      "file": "45_劫的几何论诠释_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:22.592812"
+    },
+    "空劫因果推进暂停引理": {
+      "submission_id": "0e5508c84c63e1d4",
+      "status": "pending",
+      "file": "45_劫的几何论诠释_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:23.363223"
+    },
+    "住阶段因果推进层数": {
+      "submission_id": "16d3f838a500d1fb",
+      "status": "pending",
+      "file": "45_劫的几何论诠释_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:24.126639"
+    },
+    "四阶段因果序不等定理": {
+      "submission_id": "098aa5c0b2a75c5a",
+      "status": "pending",
+      "file": "45_劫的几何论诠释_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:24.904981"
+    },
+    "物质界时间拉伸机制": {
+      "submission_id": "aa27ac478597a5d8",
+      "status": "pending",
+      "file": "45_劫的几何论诠释_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:25.672664"
+    },
+    "层数标度 N_layers ~ N_info^{1/2}": {
+      "submission_id": "69809250416ff5df",
+      "status": "pending",
+      "file": "46_物质界收缩时间与宇宙尺度的几何结构_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:26.450789"
+    },
+    "三条公理": {
+      "submission_id": "f2294fe7d70b72fa",
+      "status": "pending",
+      "file": "49_七级以后是自由的起源_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:27.271430"
+    },
+    "严格定理（呼吸模式）": {
+      "submission_id": "e00636da18d75525",
+      "status": "pending",
+      "file": "4_Higgs呼吸_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:28.054106"
+    },
+    "最重中微子质量m3": {
+      "submission_id": "a6e867b1def84c1e",
+      "status": "pending",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:28.811617"
+    },
+    "对称补全定理（M-C交换）": {
+      "submission_id": "58f43585430bfc95",
+      "status": "pending",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:29.591113"
+    },
+    "约束流形可缩性定理（U(1)丛平凡）": {
+      "submission_id": "b8c3cbb4343af586",
+      "status": "pending",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:30.550247"
+    },
+    "无磁单极子定理": {
+      "submission_id": "67315cbc426ade19",
+      "status": "pending",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:31.308105"
+    },
+    "夸克禁闭定理（拓扑版）": {
+      "submission_id": "799d54af394eb8a8",
+      "status": "pending",
+      "file": "58_夸克禁闭的拓扑证明_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:32.086361"
+    },
+    "引力统一定理（三个投影）": {
+      "submission_id": "3b5866901d569dc0",
+      "status": "pending",
+      "file": "59_引力统一_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:32.871759"
+    },
+    "引力统一定理（定理3.1）": {
+      "submission_id": "8eab86e1062e7d3b",
+      "status": "pending",
+      "file": "59_引力统一_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:33.652532"
+    },
+    "引力统一定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "59_引力统一_CN_260707.7.md",
+      "contradiction": "统一了不同尺度的引力表达，无矛盾。",
+      "submitted_at": "2026-07-12T18:53:53.515508"
+    },
+    "分类总表": {
+      "submission_id": "6d280e1dedb93d33",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:35.173417"
+    },
+    "SU(3)色对称性起源链": {
+      "submission_id": "b64f263e54caeaa4",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:35.962987"
+    },
+    "强CP的几何消解（θ̅=0）": {
+      "submission_id": "28dd866bfab52a36",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:36.731197"
+    },
+    "谱并联定理（条件性命题）": {
+      "submission_id": "632bba2893bce9cd",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:37.504116"
+    },
+    "SU(3)结构定理": {
+      "submission_id": "d29d9a3fb0502186",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:38.271874"
+    },
+    "黎曼猜想几何论探索——三重桥梁": {
+      "submission_id": "fe8c36edd05ef86e",
+      "status": "pending",
+      "file": "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:39.048452"
+    },
+    "欧几里得素数无限定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md",
+      "contradiction": "无矛盾。",
+      "submitted_at": "2026-07-12T18:53:53.515525"
+    },
+    "等级评估定理": {
+      "submission_id": "9b959253bfb5d2c5",
+      "status": "pending",
+      "file": "68_质子自旋危机的几何封闭_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:40.605426"
+    },
+    "四种耦合常数的Hessian谱投影统一": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "69_四种耦合常数的Hessian谱统一_CN_260712.7.md",
+      "contradiction": "无矛盾（数值与实验一致）",
+      "submitted_at": "2026-07-12T20:05:42.710653"
+    },
+    "裸弱混合角定理": {
+      "submission_id": "cdb3a3fa927a2bd4",
+      "status": "pending",
+      "file": "6_弱混合角_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:42.247424"
+    },
+    "Berry相位反馈修正定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "6_弱混合角_CN_260707.7.md",
+      "contradiction": "无矛盾；数值与实验吻合（sin²θ_W=0.23124）。",
+      "submitted_at": "2026-07-12T18:53:53.515532"
+    },
+    "小涨落近似引理": {
+      "submission_id": "3fc369159843a7c6",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:43.803677"
+    },
+    "裸基准点值推论": {
+      "submission_id": "6f40fe07d9355548",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:44.579696"
+    },
+    "一般点形式推论": {
+      "submission_id": "164b3e28102a1110",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:45.352135"
+    },
+    "物理实例化推论": {
+      "submission_id": "f797729fd4344a02",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:46.122006"
+    },
+    "δ₀的定义": {
+      "submission_id": "ae0741b9ed70e9d9",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:46.901106"
+    },
+    "软模零点宽度": {
+      "submission_id": "4223c6d0e93637ed",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:47.671788"
+    },
+    "δ₀^single的谱几何公式": {
+      "submission_id": "94adac13ee2e820e",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:48.455673"
+    },
+    "单链δ₀^single的显式参数化": {
+      "submission_id": "ff12e6c84904a918",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:49.221063"
+    },
+    "N_eff的通用计数规则": {
+      "submission_id": "a52c351481eddb4c",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:50.115733"
+    },
+    "N_eff的数值验证": {
+      "submission_id": "a75c2da182334392",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:50.893882"
+    },
+    "保护机制的等价性": {
+      "submission_id": "abc0a09831c0f6b6",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:51.674078"
+    },
+    "镜面对称保护的Tc公式适用性": {
+      "submission_id": "cf3a6abb108a2467",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:52.454729"
+    },
+    "非中心对称保护的Tc公式适用性": {
+      "submission_id": "5cf836da45797612",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:12:53.229641"
+    },
+    "体材料的Tc公式极限": {
+      "submission_id": "40da9a5dc373f922",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:54.000703"
+    },
+    "ΔS_pair的几何表达式": {
+      "submission_id": "9970d146d9c16e05",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:54.825073"
+    },
+    "边界极限公理": {
+      "submission_id": "7365f75ab2f0ada2",
+      "status": "pending",
+      "file": "十方几何空间的数学理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:55.611050"
+    },
+    "全息屏编码条件": {
+      "submission_id": "f546a3da98416cf4",
+      "status": "pending",
+      "file": "十方几何空间的数学理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:56.404996"
+    },
+    "Dirac 指标定理": {
+      "submission_id": "29cb8ee5f941902f",
+      "status": "pending",
+      "file": "十方几何空间的数学理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:57.292089"
+    },
+    "谱收敛定理": {
+      "submission_id": "7bd3a636f77a9586",
+      "status": "pending",
+      "file": "十方几何空间的数学理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:12:58.065382"
+    },
+    "双线性耦合的线性展开解耦（负结果）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "contradiction": "无矛盾（负结果定理）",
+      "submitted_at": "2026-07-12T18:12:58.588161"
+    },
+    "C_n = M_{n-1}/n（H2命题）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "contradiction": "无矛盾，数值与实验符合较好",
+      "submitted_at": "2026-07-12T18:12:58.588172"
+    },
+    "热膨胀系数——未闭合声明": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "43_合金设计_CN_260707.7.md",
+      "contradiction": "与实验矛盾（量级差10¹⁶），但作者已承认不完备",
+      "submitted_at": "2026-07-12T18:12:58.588175"
+    },
+    "与可检验预言": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "51_重子生成_CN_260707.7.md",
+      "contradiction": "部分预言与现有观测一致（η_B），部分未验证，暂无矛盾",
+      "submitted_at": "2026-07-12T18:12:58.588177"
+    },
+    "迹条件（九素互扼迹约束）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "contradiction": "与自身计算矛盾，结论错误",
+      "submitted_at": "2026-07-12T18:12:58.588179"
+    },
+    "PMNS混合角几何预言（平均度规近似）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "与实验值有偏差，但非矛盾，说明近似失效",
+      "submitted_at": "2026-07-12T18:12:58.588181"
+    },
+    "超导三问判据": {
+      "submission_id": "bfc72df2a1572939",
+      "status": "pending",
+      "file": "79_一般材料的超导通用判据_O4封闭_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:23:07.646364"
+    },
+    "全息屏铺满定理": {
+      "submission_id": "ec43f93ab29a4a16",
+      "status": "pending",
+      "file": "0.0.6_三分切丛与全息屏的几何结构_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:44:20.259695"
+    },
+    "Φ截面Jacobian（本文定理1）": {
+      "submission_id": "2e6f55f8c7f1f569",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:44:44.131853"
+    },
+    "体系": {
+      "submission_id": "e863f27c615d30b9",
+      "status": "pending",
+      "file": "0.1.1_三对偶几何约束_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:44:55.777132"
+    },
+    "$D_4$ 根系中权重差的范数引理（引理3.1）": {
+      "submission_id": "fae51bf6338974c6",
+      "status": "pending",
+      "file": "0.1.2_跨扇区耦合_HW_前置因子的代数结构_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:45:04.591216"
+    },
+    "有效质量项 $M^2$ 的非负性定理": {
+      "submission_id": "b4dbf56f4b21a7d9",
+      "status": "pending",
+      "file": "0.2.1.1_渗透函数解析框架_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:45:15.344532"
+    },
+    "全息屏编码条件）与扇区标记": {
+      "submission_id": "30cc233be5a9aeaa",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:45:28.523199"
+    },
+    "Lagrange子流形解释": {
+      "submission_id": "da762df26cac079e",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:45:41.115699"
+    },
+    "辛几何结构与Hamilton定理": {
+      "submission_id": "bcc7fef6ea717a3c",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:46:04.800165"
+    },
+    "刚度约束比定理": {
+      "submission_id": "02f091eaba56cf5a",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:46:35.108156"
+    },
+    "级成果": {
+      "submission_id": "a9c3f111b9d8fae1",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:46:53.490851"
+    },
+    "局部辛几何与Hamilton定理": {
+      "submission_id": "9b24335bec1f0d8b",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:47:04.287561"
+    },
+    "$K_S \\approx 180$的Hessian谱刚性定理": {
+      "submission_id": "cd8f172f7c69dd11",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:47:20.610589"
+    },
+    "级（已闭合）": {
+      "submission_id": "a53e6e8455d3e133",
+      "status": "pending",
+      "file": "0.3.3_量子几何关联的严格推导_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:47:45.710022"
+    },
+    "级（结构完整，待最终证明）": {
+      "submission_id": "8600c0693ccd2b2e",
+      "status": "pending",
+      "file": "0.3.3_量子几何关联的严格推导_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:48:00.433382"
+    },
+    "Hessian-Dixmier扇区对齐定理": {
+      "submission_id": "01daaa2d6a1d5db4",
+      "status": "pending",
+      "file": "0.3.7_C_K的谱几何闭合_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:48:15.166076"
+    },
+    "层级声明": {
+      "submission_id": "6ecd1495db4b2a5b",
+      "status": "pending",
+      "file": "0.3.9_联合截面谱理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:48:42.144309"
+    },
+    "第八级不可计算自由度存在": {
+      "submission_id": "3445980c02147f3c",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:49:11.552866"
+    },
+    "δL_I^(0)的C-场Fourier选择定则": {
+      "submission_id": "120e8d361d371d4e",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:49:39.443676"
+    },
+    "绝热框架稳健性定理": {
+      "submission_id": "dde178cebf41eea8",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:49:50.596567"
+    },
+    "δL_I^(0)的物理有效界": {
+      "submission_id": "b75a3240a171e803",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:50:01.102717"
+    },
+    "C-I耦合时间尺度定量化定理": {
+      "submission_id": "9ca62629c0d86a5d",
+      "status": "pending",
+      "file": "0.5.7_C-I双场耦合的桥接定理与联合演化_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:50:16.582026"
+    },
+    "M场零模几何构型": {
+      "submission_id": "07100ad9b154c9a6",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:50:48.966898"
+    },
+    "光子零质量定理": {
+      "submission_id": "5d57c121b6bd364d",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:51:19.402375"
+    },
+    "黑洞几何约束构型定理": {
+      "submission_id": "1ad777a2ec9954d0",
+      "status": "pending",
+      "file": "14_黑洞与信息悖论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:51:41.733997"
+    },
+    "电子刚性构型A定理": {
+      "submission_id": "6d94b9281c6788f7",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:51:59.481317"
+    },
+    "双线性耦合线性展开解耦定理": {
+      "submission_id": "6e0682f49b81c72c",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:52:24.172436"
+    },
+    "因果角锁定定理（θ_C^{(2)}锁定）": {
+      "submission_id": "9edee8440bbd11bd",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:52:56.416284"
+    },
+    "θ_M^{(2)}对称性锁定定理": {
+      "submission_id": "27fdd3ca5fd53e79",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:24.797659"
+    },
+    "C_n独立性定理": {
+      "submission_id": "20f8e23bca706d4d",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:25.600792"
+    },
+    "最近邻耦合近似（W_{13}≈0）": {
+      "submission_id": "5cfac54bd21b63a8",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:26.693495"
+    },
+    "C_n谱论均分命题（原H2）": {
+      "submission_id": "99d4f80dc35f0351",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:27.490795"
+    },
+    "θ_C^{(3)}锁定定理（三层推广）": {
+      "submission_id": "bd525f5cb13a19ba",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:28.281237"
+    },
+    "联合截面类型判据定理（定理7.1）": {
+      "submission_id": "200c8bff44088a60",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:29.068019"
+    },
+    "公理体系与符号约定": {
+      "submission_id": "845bdd33a5555cea",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:29.891893"
+    },
+    "第一非零球谐模与双极定理": {
+      "submission_id": "d4609c915f5e2207",
+      "status": "pending",
+      "file": "37_卫星系统的解析_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:30.696849"
+    },
+    "特征值简并定理": {
+      "submission_id": "67e21498c3ff7c90",
+      "status": "pending",
+      "file": "37_卫星系统的解析_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:31.530020"
+    },
+    "全息屏激发态多极定理": {
+      "submission_id": "8def80a46004af3e",
+      "status": "pending",
+      "file": "37_卫星系统的解析_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:32.330290"
+    },
+    "与工具基础": {
+      "submission_id": "4842145fa1af04ff",
+      "status": "pending",
+      "file": "40_经络的几何起源_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:33.144537"
+    },
+    "理论强度极限——几何封闭": {
+      "submission_id": "5b80f59341be1f78",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:33.966588"
+    },
+    "纳米多层膜强度——几何封闭": {
+      "submission_id": "b2a83c4dfc3ca3d2",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:34.791027"
+    },
+    "晶体密度——几何封闭": {
+      "submission_id": "11fdd82f158e4d79",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:35.766552"
+    },
+    "孔隙率——信息场退相干封闭": {
+      "submission_id": "fb7a95cefe9284a2",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:36.576847"
+    },
+    "晶界节点间距几何封闭": {
+      "submission_id": "5f329e706ba47c91",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:37.477516"
+    },
+    "蠕变激活能几何封闭": {
+      "submission_id": "0fd60bd94fee3c5b",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:38.310430"
+    },
+    "肖特基势垒角度势垒工程": {
+      "submission_id": "e27af9bb3d66ce0f",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:39.122150"
+    },
+    "非晶密度Bott周期截断封闭": {
+      "submission_id": "0c91ff791ebeb8fa",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:39.933835"
+    },
+    "层数标度N_layers ~ N_info^{1/2}": {
+      "submission_id": "ed7ed151f9119708",
+      "status": "pending",
+      "file": "46_物质界收缩时间与宇宙尺度的几何结构_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:40.756115"
+    },
+    "呼吸模式定理": {
+      "submission_id": "cda510ac61a1436b",
+      "status": "pending",
+      "file": "4_Higgs呼吸_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:41.582821"
+    },
+    "最重中微子质量定理": {
+      "submission_id": "1a3d47555117add0",
+      "status": "pending",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:42.622104"
+    },
+    "对称补全解决了什么": {
+      "submission_id": "0ad16bbd98dd6b2c",
+      "status": "pending",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:43.608222"
+    },
+    "定理3.1（引力统一定理）": {
+      "submission_id": "2c0b58ce08c959a0",
+      "status": "pending",
+      "file": "59_引力统一_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:44.453088"
+    },
+    "小涨落近似": {
+      "submission_id": "d56d25fe166eac39",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:45.303368"
+    },
+    "裸基准点值": {
+      "submission_id": "28676b62b1175e87",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:46.194300"
+    },
+    "一般点形式": {
+      "submission_id": "44b88474bb7c5ebf",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:47.039178"
+    },
+    "物理实例化（交叉验证）": {
+      "submission_id": "9cd2b0f460d81791",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:47.884109"
+    },
+    "δ₀定义": {
+      "submission_id": "e0fbe4ef33e970c4",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T18:53:49.166080"
+    },
+    "软模零点宽度（纯辛几何）": {
+      "submission_id": "5119357a7ff94605",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:50.140775"
+    },
+    "δ₀^single谱几何公式": {
+      "submission_id": "b478baddb67e03ff",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:51.125199"
+    },
+    "数值验证（与Tc拟合对比）": {
+      "submission_id": "b6210e6894cf9ca5",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:52.123506"
+    },
+    "ΔS_pair的Ext¹表达式": {
+      "submission_id": "7774fd22f54efd31",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T18:53:53.004331"
+    },
+    "迹条件定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "contradiction": "与自身验证结果矛盾：构型A处计算tr(H_eff)/H_MM0=1900.15，远大于10，表明推导不正确。",
+      "submitted_at": "2026-07-12T18:53:53.515486"
+    },
+    "对称补全+平均度规": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "与实验值有偏差，但框架量级正确，无根本矛盾。",
+      "submitted_at": "2026-07-12T18:53:53.515498"
+    },
+    "无磁单极子的几何基础": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "contradiction": "与狄拉克磁单极子存在性矛盾，但在几何论框架内无矛盾。",
+      "submitted_at": "2026-07-12T18:53:53.515501"
+    },
+    "定理5.1（无磁单极子）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "contradiction": "与狄拉克磁单极子存在性矛盾，但在几何论框架内无矛盾。",
+      "submitted_at": "2026-07-12T18:53:53.515503"
+    },
+    "定理3.2（夸克禁闭——拓扑版）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "58_夸克禁闭的拓扑证明_CN_260707.7.md",
+      "contradiction": "与实验观察一致（夸克禁闭），无矛盾。",
+      "submitted_at": "2026-07-12T18:53:53.515506"
+    },
+    "SU(3)色对称性的几何起源链": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "contradiction": "与标准模型SU(3)一致，无矛盾。",
+      "submitted_at": "2026-07-12T18:53:53.515511"
+    },
+    "强CP的几何消解定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "contradiction": "无矛盾；该结果解决了强CP问题，与实验一致。",
+      "submitted_at": "2026-07-12T18:53:53.515515"
+    },
+    "谱并联定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "contradiction": "无矛盾；条件性假设在物理上是合理的近似。",
+      "submitted_at": "2026-07-12T18:53:53.515518"
+    },
+    "SU(3)结构封闭定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "contradiction": "无矛盾；几何论中SU(3)来源于跨扇区复化，与Cl(7)仅承载𝔰𝔲(2)的结论处于不同层次。",
+      "submitted_at": "2026-07-12T18:53:53.515521"
+    },
+    "三重桥梁思想实验（非定理）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md",
+      "contradiction": "无矛盾；未声称证明黎曼猜想，仅提出探索方向。",
+      "submitted_at": "2026-07-12T18:53:53.515523"
+    },
+    "质子自旋危机等级评估": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "68_质子自旋危机的几何封闭_CN_260712.7.md",
+      "contradiction": "无矛盾；数值与实验一致。",
+      "submitted_at": "2026-07-12T18:53:53.515527"
+    },
+    "Φ截面Jacobian（本文定理1": {
+      "submission_id": "311e61afa29b8cd4",
+      "status": "pending",
+      "file": "0.0.9_三工具路线与双框架互扼_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:05.557575"
+    },
+    "$D_4$ 根系中权重差的范数引理": {
+      "submission_id": "fab182ecee3a776f",
+      "status": "pending",
+      "file": "0.1.2_跨扇区耦合_HW_前置因子的代数结构_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:09.196473"
+    },
+    "的 Lagrange 子流形解释": {
+      "submission_id": "7b2e9d7c450d4b22",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:12.043479"
+    },
+    "辛几何结构与 Hamilton 定理": {
+      "submission_id": "05f3e39f238fc20e",
+      "status": "pending",
+      "file": "0.2.1_几何约束截面_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:13.292749"
+    },
+    "局部辛几何与 Hamilton 定理": {
+      "submission_id": "77008b341872a387",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:15.261292"
+    },
+    "$K_S \\approx 180$ 的 Hessian 谱刚性定理": {
+      "submission_id": "de6b513d13fc7a16",
+      "status": "pending",
+      "file": "0.2.3_因果场量子化方案_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:17.501452"
+    },
+    "块对角结构定理": {
+      "submission_id": "3985f09d223ac987",
+      "status": "pending",
+      "file": "0.3.9_联合截面谱理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:18.747134"
+    },
+    "A：第八级不可计算自由度存在（49号 §2-3": {
+      "submission_id": "9afecf64360d4c42",
+      "status": "pending",
+      "file": "0.4.8_第八级自举_从不可计算自由度到观测者角度锁定_CN_260710.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:20.055363"
+    },
+    "δL_I^(0) 的选择定则": {
+      "submission_id": "18a05d12428e229e",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:20:21.313890"
+    },
+    "绝热框架稳健性定理（定理3）": {
+      "submission_id": "4fb3799082896096",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:20:22.563844"
+    },
+    "δL_I^(0)的物理有效界（命题1）": {
+      "submission_id": "139b3d949c675cd9",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:20:23.786142"
+    },
+    "τ_CI定量化升级": {
+      "submission_id": "d04c6bfde4cb72f5",
+      "status": "pending",
+      "file": "0.5.7_C-I双场耦合的桥接定理与联合演化_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:20:25.120601"
+    },
+    "M场零模几何构型定理（命题1a）": {
+      "submission_id": "f9de715aeab8fd73",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:20:26.372260"
+    },
+    "光子零质量定理（命题1b）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "contradiction": "无矛盾，与光子零质量实验一致",
+      "submitted_at": "2026-07-13T13:07:44.831970"
+    },
+    "黑洞几何约束构型定理（θ_M=θ_C=45°）": {
+      "submission_id": "aa450625bc88bbfa",
+      "status": "pending",
+      "file": "14_黑洞与信息悖论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:20:28.882367"
+    },
+    "电子刚性锚定点定理": {
+      "submission_id": "937b06bf42478f85",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:20:30.140206"
+    },
+    "双线性耦合的线性展开解耦 ❌（负结果": {
+      "submission_id": "bcffda9575a645e1",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:32.277278"
+    },
+    "$\\theta_C^{(2)} = \\theta_C^0 = 26.16^\\circ$（因果角锁定）✅": {
+      "submission_id": "49b94e9b164076f5",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:36.764663"
+    },
+    "$\\theta_M^{(2)} = 31.94^\\circ$——对称性解析论证 ✅": {
+      "submission_id": "2f26cd5e6820d911",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:38.117044"
+    },
+    "$C_n$不在联合截面驻点条件中 ✅": {
+      "submission_id": "51cbd91d7aca9304",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:46.584107"
+    },
+    "$W_{13} \\approx 0$（最近邻耦合）✅": {
+      "submission_id": "dbbaee3ec78cfc42",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:20:56.706267"
+    },
+    "H2：$C_n = M_{n-1}/n$": {
+      "submission_id": "a25009f1f1dc7a61",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:21:01.175511"
+    },
+    "的三层推广": {
+      "submission_id": "a50ee429ddc97788",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:21:05.794110"
+    },
+    "P0-14封闭：联合截面类型判据定理": {
+      "submission_id": "b9255e58acd8d04a",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:21:07.981441"
+    },
+    "公理体系（完备性、六项作用量、全息屏编码及核心常数）": {
+      "submission_id": "9b528bc11bf93dec",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:21:10.605013"
+    },
+    "晶界节点间距公式": {
+      "submission_id": "d121cf349c5a51a0",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:11.990112"
+    },
+    "蠕变激活能几何公式": {
+      "submission_id": "c255e84efccee651",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:14.367732"
+    },
+    "肖特基势垒几何公式": {
+      "submission_id": "0cd9da2dbece8ddc",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:15.746089"
+    },
+    "非晶密度几何公式": {
+      "submission_id": "50773db5f662070d",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:17.231313"
+    },
+    "层数标度推论": {
+      "submission_id": "daa9dc9decbdb36f",
+      "status": "pending",
+      "file": "46_物质界收缩时间与宇宙尺度的几何结构_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:19.321674"
+    },
+    "呼吸模式与完备性自动保持定理": {
+      "submission_id": "5e0304dcf8f66f2c",
+      "status": "pending",
+      "file": "4_Higgs呼吸_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:23.226140"
+    },
+    "最重中微子质量 m3": {
+      "submission_id": "86a658e94c721bf3",
+      "status": "pending",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:24.629288"
+    },
+    "几何论中无磁单极子的定理力度": {
+      "submission_id": "a9cc2ecf2e53f0cf",
+      "status": "pending",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:30.863714"
+    },
+    "无磁单极子定理（定理5.1）": {
+      "submission_id": "64905e6f3ce0666f",
+      "status": "pending",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:40.149998"
+    },
+    "夸克禁闭拓扑版（定理3.2）": {
+      "submission_id": "ccc53ecd870a0f1b",
+      "status": "pending",
+      "file": "58_夸克禁闭的拓扑证明_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:43.894068"
+    },
+    "SU(3)色对称起源链": {
+      "submission_id": "5ebe5d1447d093a9",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:46.252649"
+    },
+    "强CP的几何消解定理（θ̄=0）": {
+      "submission_id": "db387c470450d583",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:47.711079"
+    },
+    "三重桥梁思想实验": {
+      "submission_id": "6ab7b93af460c663",
+      "status": "pending",
+      "file": "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:21:49.279150"
+    },
+    "素数无限性定理（欧几里得）": {
+      "submission_id": "74c463920f8bb9ec",
+      "status": "pending",
+      "file": "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:21:53.252632"
+    },
+    "等级评估（质子自旋危机几何封闭）": {
+      "submission_id": "57b52177f2a36b0e",
+      "status": "pending",
+      "file": "68_质子自旋危机的几何封闭_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:21:57.117154"
+    },
+    "四种耦合常数的Hessian谱投影统一定理": {
+      "submission_id": "3c55083c1c0b148b",
+      "status": "pending",
+      "file": "69_四种耦合常数的Hessian谱统一_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:21:58.586295"
+    },
+    "δ₀^single的几何函数（电子实例化）": {
+      "submission_id": "dea4f3855f86b2bc",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:22:00.158405"
+    },
+    "投影收窄量δ₀的定义": {
+      "submission_id": "46b7835f05e06eab",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:22:04.100295"
+    },
+    "定理1.2 N_eff的数值验证": {
+      "submission_id": "9b93eee6ed912b3a",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:22:12.661366"
+    },
+    "体材料的退化情况（定理2.4）": {
+      "submission_id": "c1e1a668b5428abf",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:22:15.270514"
+    },
+    "公理2（边界极限公理）": {
+      "submission_id": "5157f875757fafca",
+      "status": "pending",
+      "file": "十方几何空间的数学理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:22:19.229246"
+    },
+    "公理3（全息屏编码条件）": {
+      "submission_id": "09d63fe2cd2276e9",
+      "status": "pending",
+      "file": "十方几何空间的数学理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T19:22:23.700334"
+    },
+    "九素互扼迹约束定理（证伪）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "contradiction": "与自身数值验证严重矛盾（预期10，实际1900），定理不成立，应为错误命题。",
+      "submitted_at": "2026-07-12T19:22:24.278757"
+    },
+    "PMNS混合角对称补全与平均度规": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "与实验值有偏差，但框架承认平均度规失效，非物理矛盾，而是理论近似需改进",
+      "submitted_at": "2026-07-12T19:22:24.278767"
+    },
+    "定理3：绝热框架稳健性的快慢模判定": {
+      "submission_id": "9a0d01d5d8c3fa8d",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:56:56.918844"
+    },
+    "命题1：δL_I^(0)的物理有效界": {
+      "submission_id": "6b81fe1c0d3b6ad0",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:57:20.611784"
+    },
+    "黑洞几何约束构型定理（θ_M=θ_C=45°极小值定理）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "14_黑洞与信息悖论_CN_260707.7.md",
+      "contradiction": "无矛盾；该构型为黑洞内部行为，不违反物理常识",
+      "submitted_at": "2026-07-12T23:15:50.784392"
+    },
+    "电子固定构型A定理": {
+      "submission_id": "0019c24ba45f35ab",
+      "status": "pending",
+      "file": "24_三代轻子质量的刚性_对比丘成桐流形与小出公式_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T19:58:41.491522"
+    },
+    "晶界节点间距——几何封闭": {
+      "submission_id": "5d4a9947343294d6",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:00:13.527048"
+    },
+    "蠕变激活能——几何封闭": {
+      "submission_id": "3632d799ee0f0f76",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:00:47.690177"
+    },
+    "非晶密度——Bott 周期截断封闭": {
+      "submission_id": "2c2a5b2a3ec836d2",
+      "status": "pending",
+      "file": "43_合金设计_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:01:46.205477"
+    },
+    "a：层数标度 $N_{\\text{layers}} \\sim N_{\\text{info}}^{1/2}$（260707.7 新增": {
+      "submission_id": "dc67bde57f9f2386",
+      "status": "pending",
+      "file": "46_物质界收缩时间与宇宙尺度的几何结构_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:02:08.529081"
+    },
+    "迹条件——定理": {
+      "submission_id": "a873e1592ae9e71e",
+      "status": "pending",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:03:22.058479"
+    },
+    "$m_3$——已有定理": {
+      "submission_id": "b99c900dc8767283",
+      "status": "pending",
+      "file": "53_中微子绝对质量标度_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:03:43.360856"
+    },
+    "对称补全与平均度规检验": {
+      "submission_id": "cb9e512508f43b2c",
+      "status": "pending",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:04:05.862987"
+    },
+    "无磁单极子定理的定理级别声明": {
+      "submission_id": "4064bcb4504e81d9",
+      "status": "pending",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:04:40.532755"
+    },
+    "夸克禁闭拓扑定理": {
+      "submission_id": "7af31fedc598f1ae",
+      "status": "pending",
+      "file": "58_夸克禁闭的拓扑证明_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:13.181047"
+    },
+    "引力统一定理（重复）": {
+      "submission_id": "ca2f5ea2871d471b",
+      "status": "pending",
+      "file": "59_引力统一_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:33.870172"
+    },
+    "强CP几何消解": {
+      "submission_id": "08d38ffeb945dcae",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:34.649966"
+    },
+    "SU(3)结构——升级为完全封闭定理": {
+      "submission_id": "5b32b0f559949e48",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:35.506719"
+    },
+    "\"素数会用完\"的直觉 vs 欧几里得定理": {
+      "submission_id": "8ba2851949dfaccb",
+      "status": "pending",
+      "file": "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:05:36.375407"
+    },
+    "等级评估": {
+      "submission_id": "51b25bd956f59efc",
+      "status": "pending",
+      "file": "68_质子自旋危机的几何封闭_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:37.180917"
+    },
+    "物理实例化——仅供交叉验证": {
+      "submission_id": "8ba57c5ec1f4ca4b",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:37.962312"
+    },
+    "δ₀的定义——纯微积分，不依赖任何物理量": {
+      "submission_id": "f8b5288c78552a8b",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T20:05:38.746575"
+    },
+    "软模零点宽度公式": {
+      "submission_id": "e0297c3ffc3c1d9c",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:39.781035"
+    },
+    "δ₀^single的谱几何公式（主定理）": {
+      "submission_id": "f39f79835b5b3cd6",
+      "status": "pending",
+      "file": "73_约束截面软模零点宽度的谱几何定理_δ0_single_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:40.635789"
+    },
+    "定理1.2的数值验证（N_eff计数规则）": {
+      "submission_id": "e1eaca8327f2a2fe",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:41.416725"
+    },
+    "定理2.4（体材料Tc公式退化）": {
+      "submission_id": "0fc5939be07a797b",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T20:05:42.206700"
+    },
+    "三重桥梁：思想实验而非定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "66_黎曼猜想的几何论探索_三分切丛全息屏与谱临界线_CN_260711.3.md",
+      "contradiction": "无矛盾（作为思想实验不违背已知事实）",
+      "submitted_at": "2026-07-12T20:05:42.710628"
+    },
+    "Berry 相位反馈修正定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "6_弱混合角_CN_260707.7.md",
+      "contradiction": "无矛盾（数值与实验一致）",
+      "submitted_at": "2026-07-12T20:05:42.710657"
+    },
+    "的力度": {
+      "submission_id": "ddc0381c4917bffe",
+      "status": "pending",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:37.131390"
+    },
+    "主定理": {
+      "submission_id": "74d23c8ef763eae7",
+      "status": "pending",
+      "file": "56_磁单极子_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:38.543062"
+    },
+    "——引力统一定理": {
+      "submission_id": "2dfd07035c82f348",
+      "status": "pending",
+      "file": "59_引力统一_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:39.990351"
+    },
+    "定理 3.1——引力统一定理": {
+      "submission_id": "c5f191b5259b2547",
+      "status": "pending",
+      "file": "59_引力统一_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:41.408500"
+    },
+    "升级后的理论图景": {
+      "submission_id": "ece32be0ba05c199",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:42.841373"
+    },
+    "$\\bar{\\theta}=0$ 的几何锁定": {
+      "submission_id": "126018072d2148e9",
+      "status": "pending",
+      "file": "5_强相互作用_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:44.441200"
+    },
+    "——四种耦合常数的Hessian谱投影统一": {
+      "submission_id": "4d0223150c1dcac9",
+      "status": "pending",
+      "file": "69_四种耦合常数的Hessian谱统一_CN_260712.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:45.871118"
+    },
+    "N_eff计数规则的数值验证": {
+      "submission_id": "e0d25a71ee7499b3",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:15:47.370065"
+    },
+    "体材料的Tc公式极限（定理2.4）": {
+      "submission_id": "b9338cb9642c877d",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:15:48.808966"
+    },
+    "边界极限公理（公理2）": {
+      "submission_id": "a7ce88ae3b496a9f",
+      "status": "pending",
+      "file": "十方几何空间的数学理论_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:15:50.280216"
+    },
+    "公理集合（核心常数与公理）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "contradiction": "常数S_e=137.036、K=839.758793keV等与实验值符合，无矛盾",
+      "submitted_at": "2026-07-12T23:15:50.784395"
+    },
+    "PMNS混合角几何构造定理（对称补全+平均度规）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "部分预言与实验偏差大，但框架量级正确，不构成矛盾。",
+      "submitted_at": "2026-07-13T13:58:30.118129"
+    },
+    "τ_CI定量化升级定理": {
+      "submission_id": "8aa57ccb70d9da70",
+      "status": "pending",
+      "file": "0.5.7_C-I双场耦合的桥接定理与联合演化_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:18:51.394604"
+    },
+    "几何论基础公理体系（核聚变发动机篇）": {
+      "submission_id": "1f28fb47f3270977",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:18:52.914544"
+    },
+    "N_eff数值验证": {
+      "submission_id": "cc90cf64233d44bc",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:18:54.421240"
+    },
+    "定理2.4（体材料的Tc公式极限）": {
+      "submission_id": "b30dcfb47be2a35c",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:18:55.911843"
+    },
+    "PMNS混合角几何构造定理（平均度规近似）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "无矛盾（虽有偏差但属近似失效而非矛盾）",
+      "submitted_at": "2026-07-12T23:18:56.416470"
+    },
+    "δL_I^(0)物理有效界命题（命题1）": {
+      "submission_id": "b06e932b887f6377",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:26:11.514786"
+    },
+    "τ_CI定量化升级（由命题到定理）": {
+      "submission_id": "c4094b6adc837ea8",
+      "status": "pending",
+      "file": "0.5.7_C-I双场耦合的桥接定理与联合演化_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:26:13.303657"
+    },
+    "黑洞几何约束构型定理（θ_M=θ_C=45°极小值）": {
+      "submission_id": "9e25ce6f2f57d35e",
+      "status": "pending",
+      "file": "14_黑洞与信息悖论_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:26:14.852726"
+    },
+    "核聚变发动机公理体系": {
+      "submission_id": "21230ccf877b78ce",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-12T23:26:16.485019"
+    },
+    "数值验证——与已知Tc拟合的对比": {
+      "submission_id": "cc2513f700154a9c",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-12T23:26:18.032451"
+    },
+    "PMNS混合角几何构造定理（定理3.1）": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "与实验测量值有偏差，但框架量级正确，不构成物理矛盾（仅近似失效）",
+      "submitted_at": "2026-07-12T23:26:18.611789"
+    },
+    "δL_I^(0)耦合慢模的两种情景定理": {
+      "submission_id": "acd373582165a9bf",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T11:48:15.203702"
+    },
+    "几何论核心公理与常数公理": {
+      "submission_id": "441b870cfe2a58e0",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T11:48:16.284410"
+    },
+    "有效通道计数规则的数值验证": {
+      "submission_id": "055c648779146fab",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T11:48:17.239649"
+    },
+    "Tc公式的体材料退化极限": {
+      "submission_id": "47afcffe8a1dd903",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T11:48:18.135207"
+    },
+    "PMNS混合角对称补全与平均度规定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "与实验存在偏差但量级差异尚可解释，无根本矛盾",
+      "submitted_at": "2026-07-13T11:48:18.712233"
+    },
+    "定理3：0.5.4绝热框架的稳健性条件": {
+      "submission_id": "f2f3e8bbda659d6d",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:01:51.633620"
+    },
+    "τ_CI的定量化升级（定理级）": {
+      "submission_id": "cffa12fab30f9050",
+      "status": "pending",
+      "file": "0.5.7_C-I双场耦合的桥接定理与联合演化_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:01:53.159904"
+    },
+    "几何论基础公理I、II、III及核心常数": {
+      "submission_id": "a80974bdd4d10a68",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T13:01:54.685193"
+    },
+    "定理（对称补全 + 平均度规指数映射的PMNS混合角）": {
+      "submission_id": "e0d9ebb2e62b5dd7",
+      "status": "pending",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:01:56.238179"
+    },
+    "定理1.2的数值验证——与已知Tc拟合的对比": {
+      "submission_id": "813ed2fdc486b876",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:04:08.128948"
+    },
+    "绝热框架稳健性条件": {
+      "submission_id": "db404efe614949f7",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:07:22.525164"
+    },
+    "几何论公理体系（核聚变篇）": {
+      "submission_id": "b22e2ace6cc012b4",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T13:07:32.310716"
+    },
+    "定理1.2的数值验证": {
+      "submission_id": "c9ffa05a39628382",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:07:41.162301"
+    },
+    "PMNS混合角的对称补全+平均度规定理": {
+      "submission_id": "",
+      "status": "contradiction_flagged",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "contradiction": "无矛盾，预言偏差需进一步修正，不与已知物理矛盾",
+      "submitted_at": "2026-07-13T13:07:44.831982"
+    },
+    "绝热框架稳健性条件（定理3说明）": {
+      "submission_id": "db8cc23ed9188905",
+      "status": "pending",
+      "file": "0.5.5_交互熵与信息势的变分原理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:11:41.886161"
+    },
+    "M场零模几何构型（命题1a）": {
+      "submission_id": "00f00ebc7530240f",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:12:00.359850"
+    },
+    "PMNS混合角几何预言（对称补全+平均度规）": {
+      "submission_id": "f0f9250eb1a8048d",
+      "status": "pending",
+      "file": "55_PMNS混合矩阵的几何构造_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:12:11.533044"
+    },
+    "光子零模角极限命题（a）": {
+      "submission_id": "0a00a6d676dc5b16",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:58:27.070705"
+    },
+    "光子零质量定理（b）": {
+      "submission_id": "ed5ff22b1e08978b",
+      "status": "pending",
+      "file": "0.6.8_光子零质量定理_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:58:27.924450"
+    },
+    "几何论基础公理与常数定义": {
+      "submission_id": "5b37f24462a6f57c",
+      "status": "pending",
+      "file": "29_核聚变发动机_CN_260707.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:58:28.768910"
+    },
+    "体材料的Tc公式退化": {
+      "submission_id": "6dbac7dbc68075fc",
+      "status": "pending",
+      "file": "75_晶体对称群到约束截面拓扑_封闭H1_H4_CN_260712.7.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T13:58:29.612625"
+    },
+    "参数空间的维数（GT-0.3.0.2）": {
+      "submission_id": "33442d7a271a7e7d",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T17:00:54.814273"
+    },
+    "流形维数（GT-0.3.0.4）": {
+      "submission_id": "a9d08333959ef16c",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T17:01:02.996207"
+    },
+    "约束截面维数（GT-0.3.0.7）": {
+      "submission_id": "2189ab334d7bec8d",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T17:01:04.339442"
+    },
+    "三公理层次结构": {
+      "submission_id": "51361b53673ae588",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T17:01:05.682477"
+    },
+    "三分连续化（GT-0.3.0.1）": {
+      "submission_id": "8418e7cdbbc64778",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T17:01:07.023926"
+    },
+    "乘积球面几何（GT-0.3.0.3）": {
+      "submission_id": "39d0ff09985fa30d",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T17:01:08.492648"
+    },
+    "全息屏约束（GT-0.3.0.6）": {
+      "submission_id": "3dd16c6e2a4fd636",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T17:01:09.843227"
+    },
+    "系统的基本性质": {
+      "submission_id": "c9524edff050ca9a",
+      "status": "pending",
+      "file": "0.3_三公理_CN_260713.1.md",
+      "relation_type": "独立",
+      "submitted_at": "2026-07-13T17:01:11.235937"
+    },
+    "非独立性": {
+      "submission_id": "7ad4f9c0de71b6c6",
+      "status": "pending",
+      "file": "2.5_谱互锁定理_CN_260713.1.md",
+      "relation_type": "递进",
+      "submitted_at": "2026-07-13T17:11:55.709365"
+    }
+  },
+  "last_full_scan": 1784027809.067582,
+  "last_incremental_scan": 1783956874.461804
+}
